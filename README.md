@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a student, who is learning software dev and web programming :)
 
 <!--
 **legion2809/legion2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
