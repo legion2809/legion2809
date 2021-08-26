@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm a student, who is learning software dev and web programming and likes playing videogames :)
-Mostly, I oriented on C# programming language, but also I'm interested in C/C++, Lua, HTML/CSS/JS + PHP/Node.js, Java and Go.
+- I'm a student, who is learning software dev and web programming and likes playing videogames :)
+- Mostly, I oriented on C# programming language, but also I'm interested in C/C++, Lua, HTML/CSS/JS + PHP/Node.js, Java and Go.
 
 <!--
 **legion2809/legion2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
