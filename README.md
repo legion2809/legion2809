@@ -1,4 +1,4 @@
-### Hi there 👋
+### Witam 👋
 - I'm a student, who is learning software dev and web programming and likes playing videogames :)
 - Mostly, I oriented on `C#` programming language, but also I'm interested in `C/C++`, `Lua`, `HTML/CSS/JS + PHP/Node.js`, `Java` and `Go`.
 
