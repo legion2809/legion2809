@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=legion2809.github.io&style=for-the-badge&url=https%3A%2F%2Flegion2809.github.io)](https://legion2809.github.io)
 
 - I'm a student, who is learning software dev :computer: and web programming :globe_with_meridians: and likes playing videogames :video_game: :)
-- Mostly, I oriented on `C#` programming language, but also I'm interested in `C/C++`, `Lua`, `HTML/CSS/JS + PHP/Node.js`, `Java` and `Go`.
+- Mostly, I am oriented on `C#` programming language, but also I'm interested in `C/C++`, `Lua`, `HTML/CSS/JS + PHP/Node.js`, `Java` and `Go`.
 
 ## Languages and Tools That I Am Used To:
 
