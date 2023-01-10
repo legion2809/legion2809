@@ -21,7 +21,7 @@
 
 <img align="left" href="https://git-scm.com/" title="Git" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
 
-<img align="left" href="https://www.sqlite.org" title="SQLite" alt="SQLite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
+<img align="left" href="https://www.sqlite.org" title="SQLite" alt="SQLite" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
 
 <!--
 **legion2809/legion2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
