@@ -5,7 +5,7 @@
 - I'm a guy, who's learning software dev :computer: and web programming :globe_with_meridians: and likes playing videogames :video_game: :)
 - Mostly, I'm oriented on `C#` programming language, but also I'm interested in languages such as: `C/C++`, `Go`, `Lua`, `HTML/CSS/JS + PHP/Node.js` and `Java`.
 
-## Languages and Tools that I used to and want to use in future:
+## Languages and that I use to and want to use in the future:
 
 <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer noopener"><img align="left" title="Visual Studio 2022" alt="Visual Studio 2022" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"/></a>
 
