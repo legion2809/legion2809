@@ -5,7 +5,7 @@
 - I'm a guy, who's learning software dev :computer: and web programming :globe_with_meridians: and likes playing videogames :video_game: :)
 - Mostly, I'm oriented on `C#` programming language, but also I'm interested in languages such as: `C/C++`, `Go`, `Lua`, `HTML/CSS/JS + PHP/Node.js` and `Java`.
 
-## Languages and Tools That I'm Used To:
+## Languages and Tools that I used to and want to use in future:
 
 <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer noopener"><img align="left" title="Visual Studio 2022" alt="Visual Studio 2022" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"/></a>
 
@@ -22,6 +22,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"><img align="left" title="Git" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" /></a>
 
 <a href="https://www.sqlite.org" target="_blank" rel="noreferrer noopener"><img align="left" title="SQLite" alt="SQLite" width="50px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" /></a>
+
+<a href="https://cmake.org" target="_blank" rel="noreferrer noopener"><img align="left" title="CMake" alt="CMake" width="50px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/></a>
 
 <!--
 **legion2809/legion2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
