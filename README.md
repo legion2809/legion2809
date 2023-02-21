@@ -23,7 +23,7 @@
 
 <a href="https://www.sqlite.org" target="_blank" rel="noreferrer noopener"><img align="left" title="SQLite" alt="SQLite" width="50px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" /></a>
 
-<a href="https://cmake.org" target="_blank" rel="noreferrer noopener"><img align="left" title="CMake" alt="CMake" width="50px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/></a>
+<a href="https://cmake.org" target="_blank" rel="noreferrer noopener"><img align="left" title="CMake" alt="CMake" width="40px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/></a>
 
 <!--
 **legion2809/legion2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
