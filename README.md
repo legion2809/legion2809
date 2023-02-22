@@ -21,6 +21,8 @@
 
 <a href="https://go.dev" target="_blank" rel="noreferrer noopener"><img align="left" title="Go" alt="Go" width="46px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" /></a>
 
+<a href="https://lua.org" target="_blank" rel="noreferrer noopener"><img align="left" title="Lua" alt="Lua" width="35px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" /></a>
+
 <a href="https://html5.org/" target="_blank" rel="noreferrer noopener"><img align="left" title="HTML5" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
                                                                                                                                               
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer noopener"><img align="left" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
