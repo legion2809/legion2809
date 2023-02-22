@@ -23,7 +23,7 @@
 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer noopener"><img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 
-<a href="https://php.net" target="_blank" rel="noreferrer noopener"><img align="left" title="PHP" alt="PHP" width="26px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
+<a href="https://php.net" target="_blank" rel="noreferrer noopener"><img align="left" title="PHP" alt="PHP" width="36px" height="35px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"><img align="left" title="Git" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" /></a>
 
