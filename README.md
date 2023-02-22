@@ -5,7 +5,7 @@
 - I'm a guy, who's learning software dev :computer: and web programming :globe_with_meridians: and likes playing videogames :video_game: :)
 - Mostly, I'm oriented on `C#` programming language, but also I'm interested in languages such as: `C/C++`, `Go`, `Lua`, `HTML/CSS/JS + PHP/Node.js` and `Java`.
 
-## Languages and that I use to and want to use in the future:
+## Languages and tools that I use to and want to use in the future:
 
 <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer noopener"><img align="left" title="Visual Studio 2022" alt="Visual Studio 2022" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"/></a>
 
@@ -13,11 +13,17 @@
 
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer noopener"><img align="left" title="C#" alt="C#" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" /></a>
 
+<a href="" target="_blank" rel="noreferrer noopener"><img align="left" title="C" alt="C" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" /></a>
+
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer noopener"><img align="left" title="C++" alt="C++" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" /></a>
+
 <a href="https://html5.org/" target="_blank" rel="noreferrer noopener"><img align="left" title="HTML5" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
                                                                                                                                               
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer noopener"><img align="left" title="CSS3" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></a>
 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer noopener"><img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+
+<a href="https://php.net" target="_blank" rel="noreferrer noopener"><img align="left" title="PHP" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"><img align="left" title="Git" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" /></a>
 
