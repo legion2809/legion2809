@@ -25,6 +25,8 @@
 
 <a href="https://php.net" target="_blank" rel="noreferrer noopener"><img align="left" title="PHP" alt="PHP" width="46px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img align="left" title="Node.js" alt="Node.js" width="46px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener"><img align="left" title="Git" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" /></a>
 
 <a href="https://www.sqlite.org" target="_blank" rel="noreferrer noopener"><img align="left" title="SQLite" alt="SQLite" width="50px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" /></a>
