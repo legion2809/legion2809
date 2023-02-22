@@ -13,9 +13,13 @@
 
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer noopener"><img align="left" title="C#" alt="C#" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" /></a>
 
-<a href="" target="_blank" rel="noreferrer noopener"><img align="left" title="C" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
+<a href="#" target="_blank" rel="noreferrer noopener"><img align="left" title="C" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></a>
 
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer noopener"><img align="left" title="C++" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /></a>
+
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer noopener"><img align="left" title="Java" alt="Java" width="26px" height="36px" src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" /></a>
+
+<a href="https://go.dev" target="_blank" rel="noreferrer noopener"><img align="left" title="Go" alt="Go" width="46px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" /></a>
 
 <a href="https://html5.org/" target="_blank" rel="noreferrer noopener"><img align="left" title="HTML5" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /></a>
                                                                                                                                               
