@@ -8,7 +8,7 @@
 ## Languages and tools that I use to and want to use in the future:
 <p align="left">
   <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer noopener">
-    <img align="left" title="Visual Studio 2022" alt="Visual Studio 2022" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"/>
+    <img title="Visual Studio 2022" alt="Visual Studio 2022" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"/>
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer noopener">
