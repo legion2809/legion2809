@@ -7,7 +7,9 @@
 
 ## Languages and tools that I use to and want to use in the future:
 <p align="left">
-  <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer noopener"><img align="left" title="Visual Studio 2022" alt="Visual Studio 2022" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"/></a>
+  <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer noopener">
+    <img align="left" title="Visual Studio 2022" alt="Visual Studio 2022" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"/>
+  </a>
 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer noopener">
     <img title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" />
@@ -50,7 +52,7 @@
   </a>
 
   <a href="https://php.net" target="_blank" rel="noreferrer noopener">
-    <img title="PHP" alt="PHP" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+    <img title="PHP" alt="PHP" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
   </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener">
