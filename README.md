@@ -52,7 +52,7 @@
   </a>
 
   <a href="https://php.net" target="_blank" rel="noreferrer noopener">
-    <img title="PHP" alt="PHP" width="45" height="45" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+    <img title="PHP" alt="PHP" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
   </a>
 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener">
@@ -64,7 +64,7 @@
   </a>
 
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer noopener">
-    <img title="SQLite" alt="SQLite" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
+    <img title="SQLite" alt="SQLite" width="45" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
   </a>
 
   <a href="https://cmake.org" target="_blank" rel="noreferrer noopener">
