@@ -40,7 +40,7 @@
   <td>
   <center>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" />
+    <img title="Visual Studio Code" alt="Visual Studio Code" height="64em" src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" />
   </a>
   </center>
   </td>
@@ -48,7 +48,7 @@
   <td>
   <center>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="C#" alt="C#" width="50" height="50" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" />
+    <img title="C#" alt="C#" height="64em" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" />
   </a>
   </center>
   </td>
@@ -56,7 +56,7 @@
   <td>
   <center>
   <a href="#" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="C" alt="C" width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+    <img title="C" alt="C" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
   </a>
   </center>
   </td>
@@ -64,7 +64,7 @@
   <td>
   <center>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="C++" alt="C++" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+    <img title="C++" alt="C++" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
   </a>
   </center>
   </td>
@@ -72,7 +72,7 @@
   <td>
   <center>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="Java" alt="Java" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" />
+    <img title="Java" alt="Java" height="64em" src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" />
   </a>
   </center>
   </td>
@@ -80,7 +80,7 @@
   <td>
   <center>
   <a href="https://go.dev" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="Go" alt="Go" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
+    <img title="Go" alt="Go" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
   </a>
   </center>
   </td>
@@ -96,7 +96,7 @@
   <td>
   <center>
   <a href="https://html5.org/" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="HTML5" alt="HTML5" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
+    <img title="HTML5" alt="HTML5" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
   </a>
   </center>
   </td>
@@ -104,7 +104,7 @@
   <td>  
   <center>                                                                                                                                   
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="CSS3" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+    <img title="CSS3" alt="CSS3" height="64em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
   </a>
   </center>
   </td>
@@ -112,7 +112,7 @@
   <td>
   <center>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="JavaScript" alt="JavaScript" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+    <img title="JavaScript" alt="JavaScript" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
   </a>
   </center>
   </td>
@@ -120,7 +120,7 @@
   <td>
   <center>
   <a href="https://php.net" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="PHP" alt="PHP" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
+    <img title="PHP" alt="PHP" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
   </a>
   </center>
   </td>
@@ -128,7 +128,7 @@
   <td>
   <center>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="Node.js" alt="Node.js" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
+    <img title="Node.js" alt="Node.js" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
   </a>
   </center>
   </td>
@@ -136,7 +136,7 @@
   <td>
   <center>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="Git" alt="Git" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+    <img title="Git" alt="Git" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
   </a>
   </center>
   </td>
@@ -144,7 +144,7 @@
   <td>
   <center>
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="SQLite" alt="SQLite" width="50" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
+    <img title="SQLite" alt="SQLite" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
   </a>
   </center>
   </td>
@@ -152,7 +152,7 @@
   <td>
   <center>
   <a href="https://cmake.org" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="CMake" alt="CMake" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/>
+    <img title="CMake" alt="CMake" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/>
   </a>
   </center>
   </td>
