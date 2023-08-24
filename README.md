@@ -32,7 +32,7 @@
   <td>
   <center>
   <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="Visual Studio 2022" alt="Visual Studio 2022" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"/>
+    <img title="Visual Studio 2022" alt="Visual Studio 2022" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"/>
   </a>
   </center>
   </td>
