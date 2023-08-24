@@ -6,6 +6,13 @@
 - Mostly, I'm oriented on `C#` programming language, but also I'm interested in languages such as: `C/C++`, `Go`, `Lua`, `HTML/CSS/JS + PHP/Node.js` and `Java`.
 
 ## Languages and tools that I use to and want to use in the future:
+
+<style>
+a:hover {
+  text-decoration:none;
+}  
+</style>
+
 <p align="left">
   <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
     <img title="Visual Studio 2022" alt="Visual Studio 2022" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"/>
