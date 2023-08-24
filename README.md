@@ -103,7 +103,7 @@
   <td>  
   <center>                                                                                                                                   
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="CSS3" alt="CSS3" height="64em" width="64em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+    <img title="CSS3" alt="CSS3" height="64em" width="120em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
   </a>
   </center>
   </td>
