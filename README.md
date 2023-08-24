@@ -56,7 +56,7 @@
   <td>
   <center>
   <a href="#" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="C" alt="C" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+    <img title="C" alt="C" height="120em" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
   </a>
   </center>
   </td>
