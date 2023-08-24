@@ -48,7 +48,7 @@
   <td>
   <center>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="C#" alt="C#" width="40" height="40" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" />
+    <img title="C#" alt="C#" width="50" height="50" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" />
   </a>
   </center>
   </td>
