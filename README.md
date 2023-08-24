@@ -21,7 +21,6 @@
     <th>CSS3</th>
     <th>ECMAScript</th>
     <th>PHP</th>
-    <th>Node.js</th>
     <th>Git</th>
     <th>SQLite</th>
     <th>CMake</th>
@@ -56,7 +55,7 @@
   <td>
   <center>
   <a href="#" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="C" alt="C" height="120em" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+    <img title="C" alt="C" height="64em" width="64em" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
   </a>
   </center>
   </td>
@@ -88,7 +87,7 @@
   <td>
   <center>
   <a href="https://lua.org" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="Lua" alt="Lua" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
+    <img title="Lua" alt="Lua" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
   </a>
   </center>
   </td>
@@ -121,14 +120,6 @@
   <center>
   <a href="https://php.net" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
     <img title="PHP" alt="PHP" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
-  </a>
-  </center>
-  </td>
-
-  <td>
-  <center>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="Node.js" alt="Node.js" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
   </a>
   </center>
   </td>
