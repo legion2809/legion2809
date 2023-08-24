@@ -103,7 +103,7 @@
   <td>  
   <center>                                                                                                                                   
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="CSS3" alt="CSS3" height="64em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+    <img title="CSS3" alt="CSS3" height="64em" width="64em" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
   </a>
   </center>
   </td>
@@ -127,7 +127,7 @@
   <td>
   <center>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="Git" alt="Git" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
+    <img title="Git" alt="Git" height="64em" width="64em" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
   </a>
   </center>
   </td>
@@ -135,7 +135,7 @@
   <td>
   <center>
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer noopener" style="text-decoration:none">
-    <img title="SQLite" alt="SQLite" height="64em" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
+    <img title="SQLite" alt="SQLite" height="64em" width="70em" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
   </a>
   </center>
   </td>
