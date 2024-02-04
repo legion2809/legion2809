@@ -7,7 +7,7 @@
 
 ## Languages and tools that I use to and want to use in the future:
 <p align="left">
-  ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-A579DB?style=flat&logo=visualstudio&link=https%3A%2F%2Fvisualstudio.microsoft.com%2Fvs%2F)
+  ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-A579DB?style=flat&logo=visualstudio&link=https%3A%2F%2Fvisualstudio.microsoft.com%2Fvs)
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=flat&logo=visualstudiocode&link=https%3A%2F%2Fcode.visualstudio.com)
 
