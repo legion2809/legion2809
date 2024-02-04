@@ -7,79 +7,34 @@
 
 ## Languages and tools that I use to and want to use in the future:
 <p align="left">
-  <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer noopener">
-    <img title="Visual Studio 2022" alt="Visual Studio 2022" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg"/>
-  </a>
+  ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-A579DB?style=flat&logo=visualstudio&link=https%3A%2F%2Fvisualstudio.microsoft.com%2Fvs%2F)
 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer noopener">
-    <img title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" />
-  </a>
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=flat&logo=visualstudiocode&link=https%3A%2F%2Fcode.visualstudio.com)
 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer noopener">
-    <img title="Git" alt="Git" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
-  </a>
+  ![Git](https://img.shields.io/badge/Git-6383BB?style=flat&logo=git&logoColor=white&link=https%3A%2F%2Fgit-scm.com)
 
-  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer noopener">
-    <img title="SQLite" alt="SQLite" width="50" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
-  </a>
+  ![SQLite](https://img.shields.io/badge/SQLite-0F80CC?style=flat&logo=sqlite&link=https%3A%2F%2Fwww.sqlite.org)
 
-  <a href="https://cmake.org" target="_blank" rel="noreferrer noopener">
-    <img title="CMake" alt="CMake" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg"/>
-  </a>
+  ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&link=https%3A%2F%2Fcmake.org)
 
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer noopener">
-    <img title="C#" alt="C#" width="40" height="40" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" />
-  </a>
+  ![C#](https://img.shields.io/badge/C%23-purple?style=flat&logo=csharp&link=https%3A%2F%2Fdotnet.microsoft.com%2Fen-us%2Flanguages%2Fcsharp)
 
-  <a href="#" target="_blank" rel="noreferrer noopener">
-    <img title="C" alt="C" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
-  </a>
+  ![C](https://img.shields.io/badge/-C-5E97D0?style=flat&logo=c)
 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer noopener">
-    <img title="C++" alt="C++" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
-  </a>
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&link=https%3A%2F%2Fisocpp.org)
 
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer noopener">
-    <img title="Java" alt="Java" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/ru/3/39/Java_logo.svg" />
-  </a>
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&link=https%3A%2F%2Fwww.java.com%2Fen%2F)
 
-  <a href="https://go.dev" target="_blank" rel="noreferrer noopener">
-    <img title="Go" alt="Go" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
-  </a>
+  ![Go](https://img.shields.io/badge/Go-black?style=flat&logo=go&logoColor=white&link=https%3A%2F%2Fgo.dev)
 
-  <a href="https://lua.org" target="_blank" rel="noreferrer noopener">
-    <img title="Lua" alt="Lua" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
-  </a>
+  ![Lua](https://img.shields.io/badge/Lua-00007D?style=flat&logo=lua&link=https%3A%2F%2Flua.org)
 
-  <a href="https://html5.org/" target="_blank" rel="noreferrer noopener">
-    <img title="HTML5" alt="HTML5" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" />
-  </a>
-                                                                                                                                              
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer noopener">
-    <img title="CSS3" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-  </a>
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https%3A%2F%2Fhtml5.org)
+  
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https%3A%2F%2Fwww.w3.org%2FStyle%2FCSS%2FOverview.en.html)
 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer noopener">
-    <img title="JavaScript" alt="JavaScript" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
-  </a>
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https%3A%2F%2Fjavascript.com)
 
-  <a href="https://php.net" target="_blank" rel="noreferrer noopener">
-    <img title="PHP" alt="PHP" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
-  </a>
+  ![PHP](https://img.shields.io/badge/PHP-6383BB?style=flat&logo=php&logoColor=white&link=https%3A%2F%2Fphp.net)
   
 </p>
-
-<!--
-**legion2809/legion2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-(align="left")
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
