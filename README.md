@@ -8,7 +8,7 @@
 ## Languages and tools that I use and looking forward to use in the future:
 
 ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-A579DB?style=flat&logo=visualstudio&color=A579DB)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=flat&logo=visualstudiocode&link=https%3A%2F%2Fcode.visualstudio.com)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=flat&logo=visualstudiocode)](https://code.visualstudio.com)
 ![Git](https://img.shields.io/badge/Git-DE4C36?style=flat&logo=git&logoColor=white&link=https%3A%2F%2Fgit-scm.com)
 ![Docker](https://img.shields.io/badge/Docker-1D91B4?style=flat&logo=docker&logoColor=white&link=https%3A%2F%2Fdocker.com)
 ![SQLite](https://img.shields.io/badge/SQLite-0F80CC?style=flat&logo=sqlite&link=https%3A%2F%2Fwww.sqlite.org)
