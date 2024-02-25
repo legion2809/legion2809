@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=legion2809.github.io&style=for-the-badge&url=https%3A%2F%2Flegion2809.github.io)](https://legion2809.github.io)
 
 - I'm a guy, who's learning software dev :computer: and web programming :globe_with_meridians: and likes playing videogames :video_game: :)
-- Mostly, I'm oriented on `C#` programming language, but also I'm interested in languages such as: `C/C++`, `Go`, `Lua`, `HTML/CSS/JS + PHP` and `Java`.
+- My main programming language is `C#`, but I'm also interested in many other languages which are listed below.
 
 ## Languages and tools that I use and looking forward to use in the future:
 
