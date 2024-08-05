@@ -1,9 +1,11 @@
-## Hello there, my name is Yerkanat (or you can call me by my nickname "Legion") 👋
+## Hello there, my name is Yerkanat (you can also call me by my nickname "Legion") 👋
 
 [![Website](https://img.shields.io/website?label=legion2809.github.io&style=for-the-badge&url=https%3A%2F%2Flegion2809.github.io)](https://legion2809.github.io)
 
-- I'm a guy, who's learning software dev :computer: and web programming :globe_with_meridians: and likes playing videogames :video_game: :)
-- My main programming language is `C#`, but I'm also interested in many other languages which are listed below.
+* I'm a guy, who likes to:
+   - play videogames :video_game:
+   - learn software development :computer: and web programming :globe_with_meridians:.
+* My main programming language is `C#`, but I'm also interested in many other languages which are listed in section below.
 
 ## Languages and tools that I use and looking forward to use in the future:
 
