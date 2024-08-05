@@ -1,6 +1,6 @@
 ## Hello there, my name is Yerkanat (you can also call me by my nickname "Legion") 👋
 
-[![Website](https://img.shields.io/website?label=legion2809.github.io&style=for-the-badge&url=https%3A%2F%2Flegion2809.github.io)](https://legion2809.github.io)
+Check my personal webpage, if you're interested :slightly_smiling_face:: [![Website](https://img.shields.io/website?label=legion2809.github.io&style=for-the-badge&url=https%3A%2F%2Flegion2809.github.io)](https://legion2809.github.io)
 
 * I'm a guy, who likes to:
    - play videogames :video_game:;
