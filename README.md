@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=legion2809.github.io&style=for-the-badge&url=https%3A%2F%2Flegion2809.github.io)](https://legion2809.github.io)
 
 * I'm a guy, who likes to:
-   - play videogames :video_game:
+   - play videogames :video_game:;
    - learn software development :computer: and web programming :globe_with_meridians:.
 * My main programming language is `C#`, but I'm also interested in many other languages which are listed in section below.
 
